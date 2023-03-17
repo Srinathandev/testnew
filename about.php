@@ -1,4 +1,4 @@
 <?php 
 
-echo "About page";
+echo "About page 1 for testing purpose";
 ?>
